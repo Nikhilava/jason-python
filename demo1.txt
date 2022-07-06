@@ -1,0 +1,86 @@
+son file.( java script object nation)
+# import json
+# d={"a":1,"b":2,"c":3}
+# print(type(d))
+# print("d",d)
+# json1=json.dumps(d)
+# print("json1",json1)
+# print(type(json1))
+#
+# d2=json.loads(json1)
+# print(type(d2))
+# print("d2",d2)
+
+# import json#..............dictonary to json dictionary
+# a={"a":1,"b":2}
+# print(type(a))
+# print(a)
+# json1=json.dumps(a)
+# print(type(json1))
+# print(json1)
+#
+# d2=json.loads(json1) # json topython dictonary
+# print(type(d2))
+# print(d2)
+
+# file relted json
+
+# import json
+# fp=open('data.json','r')
+# d1=json.load(fp)
+# print(d1)
+#
+# json.dump(d1,open('data.json','w'))
+
+#
+# import json
+# fp=open('data.json','r')
+# d1=json.load(fp)
+# print(d1)
+# print(type(d1))
+#
+# json.dump(d1,open('data.json','w'))
+
+
+
+#object mod
+# import json
+# a={"a":10,"b":20,"c":30}
+# print(type(a))
+# print(a)
+# d2=json.dumps(a)
+# print(type(a))
+# print(d2)
+#
+# d3=json.loads(d2)
+# print(type(d3))
+# print(d3)
+
+# import json
+# np=open('data.json','r')
+# d1=json.load(np)
+# print(type(d1))
+# print(d1)
+#
+# json.dump(d1,open('data.json','w'))
+
+##PICKEL MODULE
+# pickle.dump(d1,f1)
+# pickle.load(f1)
+
+
+# import json   object
+# a={"a":1,"b":2,"c":3}
+# print(type(a))
+# print(a)
+# json1=json.dumps(a)
+# print(type(json1))
+# print(json1)
+#
+# json2=json.loads(json1)
+# print(type(json2))
+# print(json2)
+
+
+# file
+
